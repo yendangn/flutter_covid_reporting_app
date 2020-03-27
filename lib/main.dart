@@ -26,7 +26,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  final String url = 'https://corona.lmao.ninja/countries/viet nam';
+  final String url = 'https://corona.lmao.ninja/countries/vietnam';
 
   bool isLoading = false;
   bool isError = false;
